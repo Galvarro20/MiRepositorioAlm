@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9489C-103E-4159-903E-13E249964C91}|mvcProyectoAlmacen.Models\\mvcProyectoAlmacen.Models.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9489C-103E-4159-903E-13E249964C91}|mvcProyectoAlmacen.Models\\mvcProyectoAlmacen.Models.csproj|solutionrelative:mvcproyectoalmacen.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen\\inicializador\\inicializadorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|solutionrelative:mvcproyectoalmacen\\inicializador\\inicializadorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen\\inicializador\\iinicializadorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|solutionrelative:mvcproyectoalmacen\\inicializador\\iinicializadorbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|solutionrelative:mvcproyectoalmacen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|solutionrelative:mvcproyectoalmacen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Migrations\\20240425002203_PrimeraMigraPWII.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mvcProyectoAlmacen.Data\\Migrations\\20240425002203_PrimeraMigraPWII.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9489C-103E-4159-903E-13E249964C91}|mvcProyectoAlmacen.Models\\mvcProyectoAlmacen.Models.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9489C-103E-4159-903E-13E249964C91}|mvcProyectoAlmacen.Models\\mvcProyectoAlmacen.Models.csproj|solutionrelative:mvcproyectoalmacen.models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E9489C-103E-4159-903E-13E249964C91}|mvcProyectoAlmacen.Models\\mvcProyectoAlmacen.Models.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E9489C-103E-4159-903E-13E249964C91}|mvcProyectoAlmacen.Models\\mvcProyectoAlmacen.Models.csproj|solutionrelative:mvcproyectoalmacen.models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen\\areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|solutionrelative:mvcproyectoalmacen\\areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen\\areas\\admin\\views\\sliders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|solutionrelative:mvcproyectoalmacen\\areas\\admin\\views\\sliders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|solutionrelative:mvcproyectoalmacen.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|solutionrelative:mvcproyectoalmacen\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|solutionrelative:mvcproyectoalmacen\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen\\wwwroot\\js\\oficina.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBBFDC57-BBD4-4C24-B783-7D66586CCF3E}|mvcProyectoAlmacen\\mvcProyectoAlmacen.csproj|solutionrelative:mvcproyectoalmacen\\wwwroot\\js\\oficina.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.data\\repository\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|solutionrelative:mvcproyectoalmacen.data\\repository\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|solutionrelative:mvcproyectoalmacen.data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|solutionrelative:mvcproyectoalmacen.data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.data\\repository\\irepository\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|solutionrelative:mvcproyectoalmacen.data\\repository\\irepository\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|solutionrelative:mvcproyectoalmacen.data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|solutionrelative:mvcproyectoalmacen.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|c:\\users\\scpc504\\desktop\\programacion web 2\\mvcproyectoalmacen\\mvcproyectoalmacen.data\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77637D14-1B8C-478C-B11B-C27626775519}|mvcProyectoAlmacen.Data\\mvcProyectoAlmacen.Data.csproj|solutionrelative:mvcproyectoalmacen.data\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 204,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240425002203_PrimeraMigraPWII.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Migrations\\20240425002203_PrimeraMigraPWII.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Data\\Migrations\\20240425002203_PrimeraMigraPWII.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Migrations\\20240425002203_PrimeraMigraPWII.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Data\\Migrations\\20240425002203_PrimeraMigraPWII.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:22:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen\\appsettings.json",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\appsettings.json",
+              "RelativeToolTip": "mvcProyectoAlmacen\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T00:19:17.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen\\Program.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Program.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAADwv0EAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T00:01:58.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInicializadorBD.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Inicializador\\IInicializadorBD.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen\\Inicializador\\IInicializadorBD.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Inicializador\\IInicializadorBD.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen\\Inicializador\\IInicializadorBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:27:23.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InicializadorBD.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Inicializador\\InicializadorBD.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen\\Inicializador\\InicializadorBD.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Inicializador\\InicializadorBD.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen\\Inicializador\\InicializadorBD.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwEEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:26:43.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:46:12.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAIwAsBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-23T23:19:33.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Models\\Slider.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Models\\Slider.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:47:40.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Oficina.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Models\\Oficina.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Models\\Oficina.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Models\\Oficina.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Models\\Oficina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:47:37.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "RelativeToolTip": "mvcProyectoAlmacen\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T19:44:41.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "RelativeToolTip": "mvcProyectoAlmacen\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T18:11:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "oficina.js",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\wwwroot\\js\\oficina.js",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen\\wwwroot\\js\\oficina.js",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\wwwroot\\js\\oficina.js",
+              "RelativeToolTip": "mvcProyectoAlmacen\\wwwroot\\js\\oficina.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-23T17:29:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Data\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Data\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:26:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:22:33.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\IRepository\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Data\\Repository\\IRepository\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\IRepository\\ISliderRepository.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Data\\Repository\\IRepository\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:17:35.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Data\\Repository\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\SliderRepository.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Data\\Repository\\SliderRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:17:08.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Data\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Data\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:31:59.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:31:39.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:25:52.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen.Data\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen.Data\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen.Data\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:25:44.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "mvcProyectoAlmacen\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAADwv58AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:01:10.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoAlmacen\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\SCPC504\\Desktop\\programacion web 2\\mvcProyectoAlmacen\\mvcProyectoAlmacen\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "mvcProyectoAlmacen\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T00:54:39.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

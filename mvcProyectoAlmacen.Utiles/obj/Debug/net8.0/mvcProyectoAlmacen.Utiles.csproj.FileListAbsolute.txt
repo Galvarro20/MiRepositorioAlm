@@ -1,0 +1,33 @@
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\bin\Debug\net8.0\mvcProyectoAlmacen.Utiles.deps.json
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\bin\Debug\net8.0\mvcProyectoAlmacen.Utiles.dll
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\bin\Debug\net8.0\mvcProyectoAlmacen.Utiles.pdb
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.dll
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\refint\mvcProyectoAlmacen.Utiles.dll
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.pdb
+C:\Users\Usuario\Desktop\INGENIERIA EN SISTEMA\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\ref\mvcProyectoAlmacen.Utiles.dll
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\bin\Debug\net8.0\mvcProyectoAlmacen.Utiles.deps.json
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\bin\Debug\net8.0\mvcProyectoAlmacen.Utiles.dll
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\bin\Debug\net8.0\mvcProyectoAlmacen.Utiles.pdb
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.AssemblyInfoInputs.cache
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.AssemblyInfo.cs
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.csproj.CoreCompileInputs.cache
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.dll
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\refint\mvcProyectoAlmacen.Utiles.dll
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.pdb
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\ref\mvcProyectoAlmacen.Utiles.dll
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\bin\Debug\net8.0\mvcProyectoAlmacen.Utiles.deps.json
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\bin\Debug\net8.0\mvcProyectoAlmacen.Utiles.dll
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\bin\Debug\net8.0\mvcProyectoAlmacen.Utiles.pdb
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.AssemblyInfoInputs.cache
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.AssemblyInfo.cs
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.csproj.CoreCompileInputs.cache
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.dll
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\refint\mvcProyectoAlmacen.Utiles.dll
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\mvcProyectoAlmacen.Utiles.pdb
+C:\Users\SCPC504\Desktop\programacion web 2\mvcProyectoAlmacen\mvcProyectoAlmacen.Utiles\obj\Debug\net8.0\ref\mvcProyectoAlmacen.Utiles.dll
